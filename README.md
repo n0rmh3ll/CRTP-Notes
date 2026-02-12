@@ -29,6 +29,18 @@ Most of the techniques documented here are practiced in a lab environment using 
 
 ---
 
+## 📂 Repository Navigation
+Quickly jump into specific attack modules:
+
+* **[🔍 AD Enumeration](./AD%20-%20Enumeration/)** — Mapping the domain.
+* **[🛡️ AMSI Evasion](./AMSI/)** — Bypassing security controls.
+* **[⚡ Privilege Escalation](./Privilege%20Escalation/)** — Escalating to Domain Admin.
+* **[🏃 Lateral Movement](./Lateral%20Movement/)** — Moving through the network.
+* **[⚓ Persistence](./Persistence/)** — Maintaining domain access.
+* **[🛠️ Other Useful Stuffs](./Other%20Usefull%20Stuffs/)** — Cheatsheets and scripts.
+
+---
+
 ## ⚖️ Disclaimer
 This repository is for **educational and ethical security testing purposes only**. Unauthorized access to computer systems is illegal. Always ensure you have explicit, written permission before performing any security assessments.
 
