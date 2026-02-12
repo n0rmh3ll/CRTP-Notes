@@ -2,6 +2,7 @@
 
 Welcome to my **Certified Red Team Professional (CRTP)** study repository. This space contains a comprehensive collection of notes, cheatsheets, and tactical guides compiled while preparing for the CRTP exam.
 
+
 ## 📖 Overview
 The goal of these notes is to document the methodologies used to attack and defend Active Directory environments. From initial enumeration to domain dominance and persistence, these pages cover the core pillars of the CRTP curriculum.
 
@@ -32,4 +33,4 @@ Most of the techniques documented here are practiced in a lab environment using 
 This repository is for **educational and ethical security testing purposes only**. Unauthorized access to computer systems is illegal. Always ensure you have explicit, written permission before performing any security assessments.
 
 ---
-*Created and maintained by [n0rmh3ll](https://github.com/n0rmh3ll)*
+*Created and maintained by [n0rmh3ll](https://n0rmh3ll.github.io)*
